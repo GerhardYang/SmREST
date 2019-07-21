@@ -288,7 +288,6 @@ L.TileLayer.SmREST = L.TileLayer.extend({
 		var me = this;
 		var layerUrl = me._url + "/tileImage." + this.options.format + "?";
 		layerUrl += encodeURI(me._getRequestParamString());
-		layerUrl = this._appendCredential(layerUrl);
 		this._layerUrl = layerUrl;
 		return layerUrl;
 	},
