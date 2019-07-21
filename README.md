@@ -1,4 +1,4 @@
-## Leaflet app SuperMap REST map
+## Leaflet add SuperMap REST map
 
 ```
 import L from 'leaflet'
