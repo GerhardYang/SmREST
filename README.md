@@ -1,6 +1,8 @@
 ## Leaflet add SuperMap REST map
 
 
+[![npm version](https://badge.fury.io/js/smrest.svg)](https://badge.fury.io/js/smrest)
+
 1. install this plugin
 ```
 npm i smrest
